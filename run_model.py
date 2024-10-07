@@ -3,7 +3,7 @@ from matplotlib import pyplot as plt
 
 modes, width = 21,36
 model = FNO2d(modes, modes, width).cuda()
-model.load_state_dict(torch.load('/content/drive/MyDrive/precipitation/21m_36w_1.pth'))
+model.load_state_dict(torch.load('/content/drive/MyDrive/precipitation/21m_36w_1.pth')) # or 21m_36W_2.pth
 model = model.to('cuda')
 
 batch_size = 2
