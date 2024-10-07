@@ -4,5 +4,6 @@ How to run a time-recurrent FNO trained on precipitation data. The recommended p
 FarmCastLive uses the neuraloperator scripts provided in https://github.com/neuraloperator/neuraloperator
 All credit goes to Zongyi Li. 
 
+Disclaimer: FarmCastLive was created for the 2024 NASA Space Apps Challenge and reflects our intended concept. We make no claims or guarantees as to accuracy and usability, as further training and validation is needed prior to deployment. FarmCastLive should be considered for educational purposes only.
 
 
