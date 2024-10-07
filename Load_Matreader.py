@@ -1,6 +1,3 @@
-# CREDIT: ZONGYI LI
-# https://github.com/neuraloperator/neuraloperator
-
 import torch
 import numpy as np
 import scipy.io
